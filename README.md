@@ -14,7 +14,7 @@
 
 ## Overview
 
-Creating a Huddle landing page with curved sections
+Created NEWBIE Huddle landing page with curved sections
 
 ### The challenge
 
@@ -26,8 +26,9 @@ Using every CSS basic features
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/FEM13]
-- Solution URL: [https://codepen.io/Mr-RO13OT/pen/YzZKWbZ]
+- GITHUB REPO: [https://github.com/MrRo-bot/huddle-landing-page-with-curved-sections]
+
+- Solution URL: [https://codepen.io/Mr-RO13OT/full/YzZKWbZ]
 
 ## My process
 
