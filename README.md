@@ -14,7 +14,7 @@
 
 ## Overview
 
-Created NEWBIE Huddle landing page with curved sections
+Created JUNIOR Huddle landing page with curved sections
 
 ### The challenge
 
